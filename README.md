@@ -1,7 +1,12 @@
 - 👋 Hi, I’m @Sagarsah3413
 - 👀 I’m interested in learning new coding skills and different algorithms.
-- 🌱 I’m currently learning Data structures and algorithms.
-- 💞️ I’m looking to collaborate on open source.
+## 🌱 Learning
+- I’m currently learning Data structures and algorithms.
+- Exploring best practices in JavaScript development
+- Learning modern frontend development with React.js
+- Building projects to apply theoretical knowledge into practical solutions
+
+
 - 📫 How to reach me -email- sahs82341@gmail.com.
 
 <!---
