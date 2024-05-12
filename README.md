@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sagarsah3413
-- 👀 I’m interested in learning new coding skills and different algorithms.
-## 🌱 Learning
+## 👋 Hi, I’m @Sagarsah3413
+### 👀 I’m interested in learning new coding skills and different algorithms.
+# 🌱 Learning
 - I’m currently learning Data structures and algorithms.
 - Exploring best practices in JavaScript development
 - Learning modern frontend development with React.js
